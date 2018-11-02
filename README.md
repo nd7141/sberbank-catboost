@@ -13,3 +13,4 @@ Benefits:
 * Evaluate locally RMSE and AUC on your datasets. 
 * Hyperparameter tuning using hyperopt. 
 * CatBoost is well documented and has fast support from Yandex team. 
+* Holidays information: for each date column add another column if that date is a Russian holiday. 
